@@ -8,7 +8,7 @@ I served in the Israeli army for 2 years in an air force intelligence unit.
 
 I came to Quinnipiac to pursue my dream to be a professional soccer player, as I am playing for the men's soccer team here, and at the same time to earn a degree in a high level learning area.
 
-I like to play sports with friends and family, play video games, read books, and go to the beach. I like nature and archaeology. My family and I traveled all around the world!
+I like to play sports with friends and family, play video games, read books, and go to the beach. I like nature and archaeology. My family and I travel all around the world!
 
 # About my family!
 
