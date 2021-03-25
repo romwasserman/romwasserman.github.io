@@ -1,1 +1,5 @@
+name: romwasserman.github.io
+title: null
+plugins:
+  - jemoji
 theme: jekyll-theme-midnight
