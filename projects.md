@@ -14,8 +14,6 @@ There is the link to the MonsterBattle repository.
 
 https://github.com/romwasserman/MonsterBattle
 
-
-
 This is a project called MazeSolver.
 
 In this project the program attemps to solve a maze recursively.
@@ -24,5 +22,8 @@ The program gets the height and width of the maze, and then generates a grid. Th
 
 There is the link to the MazeSolver repository.
 
-
 https://github.com/romwasserman/MazeSolver
+
+To go back to the home page please press on the link below!
+
+https://romwasserman.github.io/

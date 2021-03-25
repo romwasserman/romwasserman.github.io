@@ -18,5 +18,6 @@ We have 2 dogs, Fibi, and Boni. We rescued Fibi from a shelter around 8 years ag
 
 
 That is it about my family and I!
-To return to the home page please press on the link below.\n
+
+To return to the home page please press on the link below.
 https://romwasserman.github.io/
